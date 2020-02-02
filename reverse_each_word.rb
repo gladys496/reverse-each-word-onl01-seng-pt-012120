@@ -6,3 +6,6 @@ sentence.each do |sentences|
    
   end 
   
+  
+  
+  
