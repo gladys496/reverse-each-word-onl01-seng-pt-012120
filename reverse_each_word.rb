@@ -1,7 +1,9 @@
   require "pry"
   
   def reverse_each_word (sentence)
-    words_sentence =.split
+    words_sentence =.split(" ")
+    new_sentence = []
+    
   
   
   def reverse_each_word (sentence)
