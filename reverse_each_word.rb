@@ -1,11 +1,12 @@
 def reverse_each_word (sentence)
+  words = sentence.split(" ")
   new_sentence = []
-sentence.each do |sentences|
-  new_sentence << "Hello there, and how are you?"
-   end
+new_sentence = new_sentence.each do {|sentence| sentence.reverse}
+  end
+  new_sentence
+end
    
-  end 
   
   
   
-  
+ 
