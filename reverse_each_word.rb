@@ -5,7 +5,6 @@
   new_sentence = []
 new_sentence = new_sentence.collect {|sentence| sentence.reverse }
 new_sentence.join
-binding.pry
 end
    
   
